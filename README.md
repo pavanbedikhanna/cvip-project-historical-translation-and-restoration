@@ -15,7 +15,13 @@ For OCR Detection:
 
 Use Homebrew to install Tesseract:
 
+
+
+For Text Transllation
+
+### 2. Install the Transformers Library
+
+You can install the `transformers` library using pip:
+
 ```bash
-brew install tesseract
-
-
+pip install transformers
